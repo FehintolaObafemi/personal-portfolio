@@ -12,4 +12,4 @@ company: 'Morgan State University'
 showInProjects: true
 ---
 
-An Amazon Alexa and Raspberry Pi project that allows a user to know who exactly is knocking at their door using facial recognition.
+An Amazon Alexa and Raspberry Pi project that alerts the primary user about guests and potential intruders using facial recognition software incorporated with an artificial intelligence algorithm.

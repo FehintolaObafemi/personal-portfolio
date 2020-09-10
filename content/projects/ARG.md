@@ -12,3 +12,4 @@ company: 'Morgan State University - ESI'
 showInProjects: true
 ---
 
+I investigated three different automated methods for identification and quantification of meso-scale damage on single-layer composite laminates subjected to ballistic impact by a 5.5 mm (0.22 caliber) right circular cylindrical steel projectile.
