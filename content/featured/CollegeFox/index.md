@@ -1,8 +1,8 @@
 ---
 date: '4'
 title: 'College Fox'
-cover: './networkgraph.png'
-github: ''
+cover: './collegefox.png'
+github: 'https://github.com/FehintolaObafemi/collegefox'
 tech:
   - JavaScript
   - Apollo Client

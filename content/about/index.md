@@ -14,7 +14,7 @@ skills:
   - Google Cloud Platform
 ---
 
-Hello! I'm Taofeek, also known as Fehintola, a software engineer based in Baltimore, MD.
+Hello! I'm Taofeek, also known as Fehintola, a software engineer currently in Baltimore, MD.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, algorithms, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
