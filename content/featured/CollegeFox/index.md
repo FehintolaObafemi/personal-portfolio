@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '3'
 title: 'College Fox'
 cover: './collegefox.png'
 github: 'https://github.com/FehintolaObafemi/collegefox'

@@ -9,5 +9,5 @@ tech:
   - iOS
   - Android
 company: 'Say Thier Names'
-showInProjects: false
+showInProjects: true
 ---

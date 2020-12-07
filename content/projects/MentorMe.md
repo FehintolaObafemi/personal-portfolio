@@ -1,14 +1,15 @@
 ---
-date: '3'
+date: '2020-08-20'
 title: 'MentorMe'
-cover: './mentorme.png'
 github: 'https://github.com/MathewChanda/MentorMe'
+external: ''
 tech:
   - React.js
   - Expo
   - Firebase
   - Google API
   - Material-UI
+company: 'Cisco Summer Program'
 showInProjects: true
 ---
 

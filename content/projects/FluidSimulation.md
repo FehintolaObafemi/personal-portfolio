@@ -11,5 +11,5 @@ tech:
   - WebGL
   - GPU
 company: ''
-showInProjects: false
+showInProjects: true
 ---
