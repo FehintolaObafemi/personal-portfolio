@@ -9,7 +9,7 @@ tech:
   - Firebase
   - Google API
   - Material-UI
-company: 'Cisco Summer Program'
+company: 'Cisco'
 showInProjects: true
 ---
 
