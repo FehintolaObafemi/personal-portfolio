@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Taofeek F. Obafemi-Babatunde is a software engineer currently based in Baltimore, MD who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Taofeek Obafemi-Babatunde, Fehintola, Fehintola Obafemi-Babatunde, fehintola obafemi, FehintolaObafemi, software engineer, front-end engineer, web developer, javascript, morgan state, machine learning, cloud computing, artificial intelligence',
+    'Taofeek Obafemi-Babatunde, Fehintola, Fehintola Obafemi-Babatunde, fehintola obafemi, FehintolaObafemi, software engineer, front-end engineer, web developer, javascript, morgan state, machine learning, cloud computing, artificial intelligence, photographer',
   siteUrl: 'https://fehintolaobafemi.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',

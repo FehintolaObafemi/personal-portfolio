@@ -2,7 +2,7 @@
 
 ## 🚨 Forking this repo (please read!)
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Brittany Chang](https://brittanychiang.com). Thanks!
 
 ## 🛠 Installation & Set Up
 
