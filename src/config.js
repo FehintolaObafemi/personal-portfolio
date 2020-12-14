@@ -30,6 +30,10 @@ module.exports = {
       name: 'Twitter',
       url: 'https://twitter.com/fehintola_xx',
     },
+    {
+      name: 'Website',
+      url: 'https://twitter.com/fehintola_xx',
+    },
   ],
 
   navLinks: [
