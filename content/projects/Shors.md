@@ -1,7 +1,7 @@
 ---
 date: '2020-12-10'
 title: 'Shor's Algorithm'
-#github: 'https://github.com/FehintolaObafemi/Shor-s-Algorithm'
+github: ''
 external: ''
 tech:
   - Jupyter Notebook
