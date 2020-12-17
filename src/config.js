@@ -34,6 +34,10 @@ module.exports = {
       name: 'Website',
       url: 'https://twitter.com/fehintola_xx',
     },
+    {
+      name: 'Unsplash',
+      url: 'https://unsplash.com/@fehintola',
+    },
   ],
 
   navLinks: [
