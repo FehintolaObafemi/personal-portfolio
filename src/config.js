@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       name: 'Website',
-      url: 'https://fehintola.format.com/',
+      url: 'https://fobafemi.com/',
     },
   ],
 
