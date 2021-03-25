@@ -106,6 +106,7 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>Website Template &amp; Design by Brittany Chiang</div>
+          <div>Website Modifications by Taofeek Obafemi-Babatunde</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
