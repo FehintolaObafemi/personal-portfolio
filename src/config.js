@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       name: 'Website',
-      url: 'https://fobafemi.com/',
+      url: 'https://www.fobafemi.com/',
     },
   ],
 

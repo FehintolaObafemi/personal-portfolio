@@ -3,13 +3,13 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - Python
-  - HTML & (S)CSS
+  - C#
   - React
-  - Java
+  - Qiskit
   - Node.js
   - MATLAB
   - Amazon Web Services
-  - SQL/NoSQL
+  - IBM Quantum Experience
   - C++
   - Google Cloud Platform
 ---
