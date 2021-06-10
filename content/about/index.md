@@ -8,10 +8,10 @@ skills:
   - Qiskit
   - Node.js
   - MATLAB
-  - Amazon Web Services
+  - Microsoft Azure
   - IBM Quantum Experience
   - C++
-  - Google Cloud Platform
+  - PowerShell
 ---
 
 Hello! I'm Taofeek, also known as Fehintola, a software engineer currently in Baltimore, MD.

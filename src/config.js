@@ -8,7 +8,7 @@ module.exports = {
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Taofeek Obafemi-Babatunde',
+  name: 'Taofeek F. Obafemi-Babatunde',
   location: 'Baltimore, MD',
   email: 'taofeekobafemibabatunde@gmail.com',
   github: 'https://github.com/FehintolaObafemi',
@@ -28,7 +28,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/fehintola_xx',
+      url: 'https://twitter.com/xx_fehintola',
     },
     {
       name: 'Website',

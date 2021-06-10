@@ -7,5 +7,4 @@ range: 'Jun 2021 - Present'
 url: ''
 ---
 
-- Assigned to the Identity & Network Access Team
-- *pending*
+- Contibuting to the MS Graph PS SDK repository

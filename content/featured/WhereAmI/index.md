@@ -3,7 +3,6 @@ date: '1'
 title: 'Where Am I'
 cover: './demo.png'
 github: 'https://github.com/FehintolaObafemi/where-am-i'
-#external: 'https://spotify-profile.herokuapp.com/'
 tech:
   - Python
   - TypeScript
