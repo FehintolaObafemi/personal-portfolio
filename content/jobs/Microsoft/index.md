@@ -8,3 +8,4 @@ url: ''
 ---
 
 - Contibuting to the MS Graph PS SDK repository
+- Adding new features to the MS Graph PS SDK repository
