@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-A social networking platform for college students to interact and share ideas amongst themselves.
+A social networking platform created for college students to interact and share ideas amongst themselves.

@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-This is a Social Data Analytics project that aims to analyze publicly available twitter data in creating predictive models of community interactions.
+This is a Social Data Analytics (SoDA) project that aims to analyze publicly available twitter data in creating predictive models of community interactions.
