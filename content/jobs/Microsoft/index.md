@@ -9,3 +9,4 @@ url: ''
 
 - Contibuting to the MS Graph PS SDK repository
 - Adding new features to the MS Graph PS SDK repository
+- Improving the Dev Ops expereience of Microsoft Graph for PowerShell users
