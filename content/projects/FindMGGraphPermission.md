@@ -11,4 +11,4 @@ company: 'Microsoft Corporation'
 showInProjects: true
 ---
 
-This is a feature proposed to improve the Dev Ops experience of Microsoft Graph for PowerShell users.
+This is a feature that was proposed and implemented into Microsoft Graphs API aimed improve the Dev Ops experience of Microsoft Graph for PowerShell users.

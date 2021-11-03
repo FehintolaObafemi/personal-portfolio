@@ -4,7 +4,7 @@ title: 'Software Engineer - Extreme Science Internship'
 company: 'John Hopkins University'
 location: 'Baltimore, MD'
 range: 'Feb 2018 - December 2020'
-url: 'https://www.morgan.edu/school_of_computer_mathematical_and_natural_sciences/information_for_students/research_and_internship_opportunities/extreme_science_internships.html'
+url: ''
 ---
 
 - Assessment and quantification of ballistic damage of a single layer woven fabric composite laminate.
