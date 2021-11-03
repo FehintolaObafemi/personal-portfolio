@@ -4,7 +4,7 @@ title: 'Dev Ops / Cloud Engineer'
 company: 'DEPA Research Laboratory'
 location: 'Baltimore, MD'
 range: 'May 2020 - Present'
-url: 'https://www.morgan.edu/school_of_engineering/departments/electrical_and_computer_engineering/laboratory_and_research_facilities.html'
+url: ''
 ---
 
 - Work with a variety of different languages, platforms, frameworks, and content management systems such as MySQL, AWS RDS, AWS EC2, Python, JavaScript, and TypeScript
