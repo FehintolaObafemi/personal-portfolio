@@ -3,14 +3,11 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - Python
-  - C#
   - React
+  - QASM
   - Qiskit
-  - Node.js
-  - MATLAB
   - Microsoft Azure
   - IBM Quantum Experience
-  - C++
   - PowerShell
 ---
 
