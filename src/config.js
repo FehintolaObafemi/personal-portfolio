@@ -12,7 +12,7 @@ module.exports = {
   location: 'Baltimore, MD',
   email: 'taofeekobafemibabatunde@gmail.com',
   github: 'https://github.com/FehintolaObafemi',
-  twitterHandle: 'fehintola_xx',
+  twitterHandle: 'xx_fehintola',
   socialMedia: [
     {
       name: 'GitHub',
