@@ -3,7 +3,6 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - Python
-  - React
   - QASM
   - Qiskit
   - Microsoft Azure
