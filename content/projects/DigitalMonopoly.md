@@ -9,7 +9,7 @@ tech:
   - C++
   - Docker
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 A digital rendering of the popular family board game primarily using C/C++ as a base langauge.

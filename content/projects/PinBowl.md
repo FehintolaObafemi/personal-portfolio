@@ -8,6 +8,6 @@ tech:
   - OpenGL
   - C++
 company: 'Morgan State Univeristy'
-showInProjects: true
+showInProjects: false
 ---
 A class project aimed at using Blender incorporated with C/C++ to explore game designing and modelling.
