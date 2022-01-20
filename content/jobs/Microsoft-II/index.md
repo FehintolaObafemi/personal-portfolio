@@ -1,10 +1,10 @@
 ---
 date: '2022-01-24'
-title: 'Software Engineer - Intern'
+title: 'Software Engineer'
 company: 'Microsoft Corporation'
 location: 'Redmond, WA'
-range: 'Jan 2022 - Present'
-url: ''
+range: 'Summer 2021, Jan 2022 - Present'
+url: 'https://github.com/microsoftgraph/msgraph-sdk-powershell/pull/809'
 ---
 
 - Contibuting to the MS Graph PS SDK repository
