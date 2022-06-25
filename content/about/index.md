@@ -3,10 +3,10 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - Python
+  - C#
   - QASM
   - Qiskit
   - Microsoft Azure
-  - IBM Quantum Experience
   - PowerShell
 ---
 
