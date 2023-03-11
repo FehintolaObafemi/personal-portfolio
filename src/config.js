@@ -25,7 +25,7 @@ module.exports = {
         },
         {
             name: 'Twitter',
-            url: 'https://twitter.com/0xfehintola',
+            url: 'https://twitter.com/fehint0la',
         },
         {
             name: 'Website',
