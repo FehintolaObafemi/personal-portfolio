@@ -19,6 +19,7 @@ const StyledContainer = styled.div`
   right: 0;
   z-index: 99;
 `;
+
 const StyledLogo = styled.div`
   width: max-content;
   max-width: 100px;
@@ -32,6 +33,9 @@ const StyledLogo = styled.div`
     fill: none;
     user-select: none;
     #B {
+      opacity: 0;
+    }
+    #F {
       opacity: 0;
     }
   }
@@ -53,6 +57,12 @@ const Loader = ({ finishLoading }) => {
       })
       .add({
         targets: '#logo #B',
+        duration: 700,
+        easing: 'easeInOutQuart',
+        opacity: 0,
+      })
+      .add({
+        targets: '#logo #F',
         duration: 700,
         easing: 'easeInOutQuart',
         opacity: 1,
