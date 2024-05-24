@@ -29,7 +29,7 @@ module.exports = {
         },
         {
             name: 'Website',
-            url: 'https://fobafemi.netlify.app/',
+            url: 'https://fehintola.netlify.app/',
         },
     ],
 
