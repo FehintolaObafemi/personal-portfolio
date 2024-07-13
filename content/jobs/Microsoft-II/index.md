@@ -1,5 +1,5 @@
 ---
-date: '2022-01-24'
+date: '2024-07-12'
 title: 'Software Engineer'
 company: 'Microsoft Corporation'
 location: 'Redmond, WA'

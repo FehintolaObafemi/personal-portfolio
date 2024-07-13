@@ -1,16 +1,16 @@
 module.exports = {
     siteTitle: 'Taofeek F. Obafemi-Babatunde | Software Engineer',
-    siteDescription: 'Taofeek F. Obafemi-Babatunde is a quantum/software engineer currently based in Baltimore, MD who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    siteDescription: 'Taofeek F. Obafemi-Babatunde is a quantum/software engineer who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
     siteKeywords: 'Taofeek Obafemi-Babatunde, Fehintola, Fehintola Obafemi-Babatunde, fehintola obafemi, FehintolaObafemi, software engineer, front-end engineer, web developer, javascript, morgan state, machine learning, cloud computing, artificial intelligence, photographer, quantum researcher',
     siteUrl: 'https://fehintolaobafemi.com',
     siteLanguage: 'en_US',
     googleAnalyticsID: 'UA-45666519-2',
     googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
     name: 'Taofeek F. Obafemi-Babatunde',
-    location: 'Baltimore, MD',
+    location: 'Austin, TX',
     email: 'taofeekobafemibabatunde@gmail.com',
     github: 'https://github.com/FehintolaObafemi',
-    twitterHandle: 'xx_fehintola',
+    twitterHandle: 'fehint0la',
     socialMedia: [{
             name: 'GitHub',
             url: 'https://github.com/FehintolaObafemi',
@@ -44,9 +44,6 @@ module.exports = {
         {
             name: 'Work',
             url: '/#projects',
-        }, {
-            name: 'Certification(s)',
-            url: '/#certifications',
         },
         {
             name: 'Contact',

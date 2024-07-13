@@ -1,9 +1,9 @@
 ---
-date: '2021-12-22'
+date: '2022-05-01'
 title: 'Quantum Researcher'
 company: 'International Business Machine - IBM'
 location: 'Baltimore, MD'
-range: 'Nov 2020 - Present'
+range: 'Dec 2020 - May 2022'
 url: 'https://www.research.ibm.com/university/awards/masters_fellowship.html'
 ---
 
