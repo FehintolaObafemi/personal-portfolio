@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '4'
 title: 'Text to Handwriting'
 cover: './text-to-handwriting.png'
 github: 'https://github.com/FehintolaObafemi/text-to-handwriting'

@@ -9,7 +9,7 @@ tech:
   - Amazon Lambda
   - Raspberry Pi
 company: 'Morgan State University'
-showInProjects: false
+showInProjects: true
 ---
 
 An Amazon Alexa and Raspberry Pi project that alerts the primary user about guests and potential intruders using facial recognition software incorporated with an artificial intelligence algorithm.

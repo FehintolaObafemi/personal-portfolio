@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '3'
 title: 'Find-MgGraphPermission'
 cover: './findmg.png'
 github: 'https://github.com/microsoftgraph/msgraph-sdk-powershell/tree/FehintolaObafemi/permission'
