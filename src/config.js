@@ -20,7 +20,7 @@ module.exports = {
         },
         {
             name: 'Website',
-            url: 'https://fehintola.netlify.app/',
+            url: 'https://fehintola.art/',
         },
     ],
 
