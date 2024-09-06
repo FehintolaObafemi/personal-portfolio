@@ -10,7 +10,6 @@ module.exports = {
     location: 'Austin, TX',
     email: 'taofeekobafemibabatunde@gmail.com',
     github: 'https://github.com/FehintolaObafemi',
-    twitterHandle: 'fehint0la',
     socialMedia: [{
             name: 'GitHub',
             url: 'https://github.com/FehintolaObafemi',
@@ -20,16 +19,8 @@ module.exports = {
             url: 'https://www.linkedin.com/in/taofeek-obafemi-babatunde',
         },
         {
-            name: 'Instagram',
-            url: 'https://www.instagram.com/fehin.tola',
-        },
-        {
-            name: 'Twitter',
-            url: 'https://twitter.com/fehint0la',
-        },
-        {
             name: 'Website',
-            url: 'https://fehintola.netlify.app/',
+            url: 'https://fehintola.art/',
         },
     ],
 

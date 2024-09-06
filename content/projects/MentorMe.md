@@ -1,7 +1,7 @@
 ---
 date: '2020-08-20'
 title: 'MentorMe'
-github: 'https://github.com/MathewChanda/MentorMe'
+github: ''
 external: ''
 tech:
   - React.js

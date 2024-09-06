@@ -2,7 +2,7 @@
 date: '2021-11-03'
 title: 'nodeShoraa'
 github: 'https://github.com/FehintolaObafemi/nodeShoraa'
-external: 'https://nodeshoraa.herokuapp.com/'
+external: ''
 tech:
   - Expo
   - ReactJS

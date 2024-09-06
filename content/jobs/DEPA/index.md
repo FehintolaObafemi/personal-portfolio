@@ -3,7 +3,7 @@ date: '2021-12-01'
 title: 'Dev Ops / Cloud Engineer'
 company: 'DEPA Research Laboratory'
 location: 'Baltimore, MD'
-range: 'May 2020 - Dec 2021'
+range: 'May 2020 - Dec 2020'
 url: ''
 ---
 
