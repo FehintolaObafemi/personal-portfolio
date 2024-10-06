@@ -50,7 +50,7 @@ const StyledGitHubInfo = styled.div`
   & > span {
     display: inline-flex;
     align-items: center;
-    margin: 0 7px;
+    margin: 7px;
   }
   svg {
     display: inline-block;
