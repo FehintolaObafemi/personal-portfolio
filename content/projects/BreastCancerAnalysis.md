@@ -1,5 +1,5 @@
 ---
-date: '2021-11-02'
+date: '2021-11-21'
 title: 'Identifying and Classifying Metastatic Breast Cancer using Deep Learning'
 github: 'https://github.com/FehintolaObafemi/breast-cancer-analysis'
 external: ''

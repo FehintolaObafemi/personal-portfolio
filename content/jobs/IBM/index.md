@@ -1,5 +1,5 @@
 ---
-date: '2022-05-01'
+date: '2021-12-31'
 title: 'Quantum Researcher'
 company: 'International Business Machine - IBM'
 location: 'Baltimore, MD'
