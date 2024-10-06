@@ -1,5 +1,5 @@
 ---
-date: '2019-05-01'
+date: '2019-11-19'
 title: 'Toward Automated Identification and Quantification of Meso-scale Damage Modes in Plain Weave Glass/Epoxy Composite Laminates'
 github: ''
 external: 'https://journals.sagepub.com/doi/full/10.1177/1056789519887215'
@@ -8,7 +8,7 @@ tech:
   - MATLAB
   - React Native
   - Java
-company: 'Morgan State University - ESI'
+company: 'Morgan State University - Extreme Science Internship, John Hopkins University'
 showInProjects: true
 ---
 

@@ -105,7 +105,7 @@ const Footer = () => {
           href="https://github.com/FehintolaObafemi/personal-portfolio"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Website Template by Brittany Chiang | Modifications by Taofeek Obafemi-Babatunde</div>
+          <div>Modifications by Taofeek Obafemi-Babatunde</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
