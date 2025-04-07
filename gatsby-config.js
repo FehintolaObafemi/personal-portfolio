@@ -137,5 +137,29 @@ module.exports = {
         trackingId: config.googleAnalyticsID,
       },
     },
+    {
+      resolve: 'gatsby-plugin-netlify',
+      options: {
+        headers: {
+          '/*': [
+            'X-Frame-Options: DENY',
+            'X-XSS-Protection: 1; mode=block',
+            'X-Content-Type-Options: nosniff',
+            'Referrer-Policy: no-referrer-when-downgrade',
+          ],
+        },
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-image',
+      options: {
+        defaults: {
+          formats: ['auto', 'webp'],
+          placeholder: 'blurred',
+          quality: 90,
+          breakpoints: [750, 1080, 1366, 1920],
+        },
+      },
+    },
   ],
 };

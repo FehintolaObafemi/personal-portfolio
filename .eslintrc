@@ -1,3 +1,13 @@
 {
-  "extends": "@upstatement/eslint-config/react"
+  "extends": [
+    "@upstatement",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:react-hooks/recommended"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint", "react-hooks"],
+  "rules": {
+    "react/react-in-jsx-scope": "off",
+    "react/prop-types": "off"
+  }
 }
