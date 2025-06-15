@@ -6,7 +6,6 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import { throttle } from '@utils';
 import { navLinks, navHeight } from '@config';
 import { Menu } from '@components';
-import { IconLogo } from '@components/icons';
 import styled from 'styled-components';
 import { theme, mixins, media } from '@styles';
 const { colors, fontSizes, fonts, loaderDelay } = theme;
@@ -46,16 +45,18 @@ const StyledLogo = styled.div`
   a {
     display: block;
     color: ${colors.green};
-    width: 42px;
-    height: 42px;
+    width: 300px;
+    height: 300px;
     &:hover,
     &:focus {
-      svg {
-        fill: ${colors.transGreen};
+      img {
+        opacity: 0.8;
       }
     }
-    svg {
-      fill: none;
+    img {
+      width: 100%;
+      height: 100%;
+      display: block;
       transition: ${theme.transition};
       user-select: none;
     }
@@ -162,12 +163,17 @@ const StyledResumeButton = styled.a`
 const DELTA = 5;
 
 class Nav extends Component {
-  state = {
-    isMounted: !this.props.isHome,
-    menuOpen: false,
-    scrollDirection: 'none',
-    lastScrollTop: 0,
-  };
+  constructor(props) {
+    super(props);
+    this.state = {
+      isMounted: false,
+      menuOpen: false,
+      scrollDirection: 'none',
+      lastScrollTop: 0,
+    };
+    this.toggleMenu = this.toggleMenu.bind(this);
+    this.handleScroll = this.handleScroll.bind(this);
+  }
 
   componentDidMount() {
     setTimeout(
@@ -248,11 +254,11 @@ class Nav extends Component {
                 <StyledLogo tabindex="-1">
                   {isHome ? (
                     <a href="/" aria-label="home">
-                      <IconLogo />
+                      <img src="/logo.png" alt="Logo" />
                     </a>
                   ) : (
                     <Link to="/" aria-label="home">
-                      <IconLogo />
+                      <img src="/logo.png" alt="Logo" />
                     </Link>
                   )}
                 </StyledLogo>
