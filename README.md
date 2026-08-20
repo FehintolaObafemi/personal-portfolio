@@ -1,45 +1,55 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/719f19c1-5fdb-4441-984d-d1851c7e692f/deploy-status)](https://app.netlify.com/sites/fehintolaportfolio/deploys)
 
-## 🚨 Forking this repo (please read!)
+Personal site for Taofeek F. Obafemi-Babatunde. Built with Next.js (static export) and markdown in `content/`.
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Brittany Chang](https://brittanychiang.com). Thanks!
+## Install and run
 
-## 🛠 Installation & Set Up
+```sh
+nvm use
+yarn
+yarn dev
+```
 
-1. Install the Gatsby CLI
+Production build:
 
-   ```sh
-   npm install -g gatsby-cli
-   ```
+```sh
+yarn build
+yarn start
+```
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+Netlify publishes the `out/` directory from `yarn build`.
 
-   ```sh
-   nvm install
-   ```
+## How to add content
 
-3. Install dependencies
+Homepage section order lives in [`src/config/site.ts`](src/config/site.ts) (`homeSections`). To add a new *kind* of homepage section: add markdown (if needed), add a component under `src/components/sections/`, register it in `src/components/sections/registry.tsx`, and append its id to `homeSections`.
 
-   ```sh
-   yarn
-   ```
+### Featured project
 
-4. Start the development server
+1. Create `content/featured/<slug>/index.md`
+2. Put a cover image next to it (for example `cover.png`)
+3. Use this frontmatter:
 
-   ```sh
-   npm start
-   ```
+```yaml
+date: '2026-08-01'   # ISO date; featured list sorts newest first
+title: 'Project name'
+cover: './cover.png'
+github: 'https://github.com/...'   # optional
+external: 'https://example.com/'   # optional
+tech:
+  - TypeScript
+featured: true
+```
 
-## 🚀 Building and Running for Production
+4. Write a short description in the markdown body.
 
-1. Generate a full static production build
+### Other project (card grid + archive)
 
-   ```sh
-   npm run build
-   ```
+Add `content/projects/<Name>.md` with `date`, `title`, `tech`, optional `github` / `external` / `company`, and `showInProjects: true`.
 
-1. Preview the site as it will appear once deployed
+### Job
 
-   ```sh
-   npm run serve
-   ```
+Add `content/jobs/<Company>/index.md` with `date`, `title`, `company`, `location`, `range`, optional `url`, and bullet markdown in the body.
+
+### Hero, about, contact
+
+Edit `content/hero/index.md`, `content/about/index.md`, and `content/contact/index.md`. About can include `avatar: './me.png'` and a `skills` list.
