@@ -3,7 +3,7 @@ date: '2026-08-01'
 title: 'Mingla'
 cover: './cover.png'
 github: 'https://github.com/Mingla-LLC/mingla-main'
-external: 'https://mingla.io/'
+external: 'https://usemingla.com/'
 tech:
   - TypeScript
   - React Native
