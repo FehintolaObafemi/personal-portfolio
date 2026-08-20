@@ -100,7 +100,7 @@ const Footer = () => {
             ))}
         </StyledSocialList>
       </StyledSocial>
-      <StyledMetadata tabindex="-1">
+      <StyledMetadata tabIndex={-1}>
         <StyledGitHubLink
           href="https://github.com/FehintolaObafemi/personal-portfolio"
           target="_blank"

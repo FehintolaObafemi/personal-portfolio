@@ -2,16 +2,18 @@
 title: 'About Me'
 avatar: './me.png'
 skills:
-  - Python
   - C#
   - TypeScript
-  - Scala
-  - Microsoft Azure
   - PowerShell
+  - Bicep
+  - Microsoft Azure
+  - KQL
 ---
 
-Hello! I enjoy creating things that live on the internet, whether that be websites, applications, algorithms, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+Hello! I'm a software engineer specializing in platform infrastructure, service reliability, and developer tooling. My work focuses on building scalable systems, improving operational readiness, and enabling teams to ship with confidence.
 
-Currently, I am working as a Software Engineer for [Microsoft](https://www.microsoft.com/en-us/), building [Writing Alley](https://writingalley.com/) and working on various pet projects on the side.
+Currently, I'm a Software Engineer II at [Microsoft](https://www.microsoft.com/en-us/), where I work on Microsoft Graph platform services including Graph Bicep, Graph Logs, and ARM integration infrastructure.
+
+I hold graduate degrees in Advanced Computing and Electrical & Computer Engineering from Morgan State University.
 
 Here are a few technologies I've been working with recently:

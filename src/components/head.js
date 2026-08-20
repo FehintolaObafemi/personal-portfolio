@@ -21,6 +21,7 @@ import msIcon144x144 from '@images/favicons/ms-icon-144x144.png';
 
 const Head = ({ metadata }) => (
   <Helmet>
+    {/* eslint-disable-next-line react/no-unknown-property */}
     <html lang="en" prefix="og: http://ogp.me/ns#" />
     <title itemProp="name" lang="en">
       {metadata.title}
@@ -46,8 +47,6 @@ const Head = ({ metadata }) => (
     <meta itemProp="image" content={`${config.siteUrl}${ogImage}`} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:url" content={metadata.siteUrl} />
-    <meta name="twitter:site" content={config.twitterHandle} />
-    <meta name="twitter:creator" content={config.twitterHandle} />
     <meta name="twitter:title" content={metadata.title} />
     <meta name="twitter:description" content={metadata.description} />
     <meta name="twitter:image" content={`${config.siteUrl}${ogImage}`} />
@@ -66,9 +65,9 @@ const Head = ({ metadata }) => (
     <link rel="icon" type="image/png" sizes="32x32" href={favicon32x32} />
     <link rel="icon" type="image/png" sizes="96x96" href={favicon96x96} />
     <link rel="icon" type="image/png" sizes="16x16" href={favicon16x16} />
-    <meta name="msapplication-TileColor" content={config.colors.black} />
+    <meta name="msapplication-TileColor" content={config.colors.darkNavy} />
     <meta name="msapplication-TileImage" content={msIcon144x144} />
-    <meta name="theme-color" content={config.colors.black} />
+    <meta name="theme-color" content={config.colors.darkNavy} />
   </Helmet>
 );
 

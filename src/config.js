@@ -1,7 +1,7 @@
 module.exports = {
     siteTitle: 'Taofeek F. Obafemi-Babatunde | Software Engineer',
-    siteDescription: 'Taofeek F. Obafemi-Babatunde is a quantum/software engineer who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteKeywords: 'Taofeek Obafemi-Babatunde, Fehintola, Fehintola Obafemi-Babatunde, fehintola obafemi, FehintolaObafemi, software engineer, front-end engineer, web developer, javascript, morgan state, machine learning, cloud computing, artificial intelligence, photographer, quantum researcher',
+    siteDescription: 'Taofeek F. Obafemi-Babatunde is a software engineer with 6+ years of experience building large-scale platform infrastructure at Microsoft, specializing in CI/CD automation, service reliability, and Microsoft Graph platform engineering.',
+    siteKeywords: 'Taofeek Obafemi-Babatunde, Fehintola, Fehintola Obafemi-Babatunde, fehintola obafemi, FehintolaObafemi, software engineer, platform engineer, Microsoft Graph, CI/CD, DevOps, cloud infrastructure, Bicep, PowerShell, TypeScript, C#, Microsoft Azure, Morgan State University',
     siteUrl: 'https://fehintolaobafemi.com',
     siteLanguage: 'en_US',
     googleAnalyticsID: 'UA-45666519-2',
