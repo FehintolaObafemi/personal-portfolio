@@ -72,6 +72,7 @@ export type Job = {
   date: string;
   title: string;
   company: string;
+  companyShort?: string;
   location: string;
   range: string;
   url?: string;
@@ -114,6 +115,7 @@ export function getJobs(): Job[] {
       date: String(data.date ?? ''),
       title: String(data.title ?? ''),
       company: String(data.company ?? ''),
+      companyShort: isPresent(data.companyShort) ? data.companyShort : undefined,
       location: String(data.location ?? ''),
       range: String(data.range ?? ''),
       url: isPresent(data.url) ? data.url : undefined,

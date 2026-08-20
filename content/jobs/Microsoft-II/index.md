@@ -1,7 +1,8 @@
 ---
 date: '2021-06-01'
 title: 'Software Engineer II'
-company: 'Microsoft Corporation'
+company: 'Microsoft'
+companyShort: 'Microsoft'
 location: 'Redmond, WA'
 range: 'June 2021 - Present'
 ---
