@@ -1,13 +1,12 @@
 ---
-date: '2020-12-01'
-title: 'Software Engineer - Extreme Science Internship'
-company: 'John Hopkins University'
+date: '2018-02-01'
+title: 'Research Assistant'
+company: 'Morgan State University · Johns Hopkins University · U.S. Army DEVCOM Army Research Laboratory'
 location: 'Baltimore, MD'
-range: 'Feb 2018 - December 2020'
+range: 'Feb 2018 - Dec 2020'
 url: ''
 ---
 
-- Assessment and quantification of ballistic damage of a single layer woven fabric composite laminate.
-- Wrote a MATLAB algorithm that accurately identifies and quantifies damage on composite materials with a 95% accuracy.
-- Developed a cross-platform mobile application which employs aforementioned MATLAB algorithm to increase functionality by 60%.
-- Published a paper and presented research findings to major army stakeholders.
+- Co-authored a research paper on experimental evaluation of armor materials for the U.S. Army and presented findings to key Army stakeholders
+- Designed software in MATLAB and CAD to analyze and assess the performance of tested materials against predefined criteria
+- Developed a cross-platform mobile application backed by a MATLAB algorithm, expanding the analysis tool's functionality by 60%
