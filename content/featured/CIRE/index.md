@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '2020-12-01'
 title: 'Cyber Identity Reconciliation Engine'
 cover: './networkgraph.png'
 github: ''
