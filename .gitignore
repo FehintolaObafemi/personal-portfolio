@@ -1,11 +1,15 @@
-# Project dependencies
-.cache
+# Dependencies
 node_modules
 yarn-error.log
 package-lock.json
 
-# Build directory
-/public
-.DS_Store
+# Next.js
+.next
+out
 
-.vscode/
+# Copied at build time from content/
+public/content
+
+# Playwright
+test-results/
+playwright-report/

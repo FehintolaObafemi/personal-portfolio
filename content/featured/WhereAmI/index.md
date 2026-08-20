@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2020-08-05'
 title: 'Where Am I'
 cover: './demo.png'
 github: 'https://github.com/FehintolaObafemi/where-am-i'
