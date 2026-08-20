@@ -18,6 +18,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "lint": "eslint --ext .js,.jsx src gatsby-*.js",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
@@ -68,6 +69,7 @@
     "styled-components": "^5.3.6"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.25.0",
     "@upstatement/eslint-config": "1.0.1",
     "@upstatement/prettier-config": "^1.0.0",
     "babel-eslint": "^10.1.0",
