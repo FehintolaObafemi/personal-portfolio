@@ -2,6 +2,7 @@
 date: '2020-05-01'
 title: 'DevOps Engineer'
 company: 'Data Engineering and Predictive Analytics Laboratory'
+companyShort: 'DEPA Lab'
 location: 'Baltimore, MD'
 range: 'May 2020 - May 2021'
 url: ''

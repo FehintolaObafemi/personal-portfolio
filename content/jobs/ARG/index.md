@@ -1,7 +1,8 @@
 ---
 date: '2018-02-01'
 title: 'Research Assistant'
-company: 'Morgan State University · Johns Hopkins University · U.S. Army DEVCOM Army Research Laboratory'
+company: 'Morgan State University · Johns Hopkins · U.S. Army DEVCOM'
+companyShort: 'Army Research Lab'
 location: 'Baltimore, MD'
 range: 'Feb 2018 - Dec 2020'
 url: ''
