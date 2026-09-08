@@ -6,7 +6,6 @@ export const site = {
     'Taofeek Obafemi-Babatunde, Fehintola, Fehintola Obafemi-Babatunde, fehintola obafemi, FehintolaObafemi, software engineer, platform engineer, Microsoft Graph, CI/CD, DevOps, cloud infrastructure, Bicep, PowerShell, TypeScript, C#, Microsoft Azure, Morgan State University',
   url: 'https://fehintolaobafemi.com',
   language: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Taofeek F. Obafemi-Babatunde',
   location: 'Austin, TX',
