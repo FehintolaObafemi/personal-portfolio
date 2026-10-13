@@ -6,13 +6,15 @@ skills:
   - TypeScript
   - PowerShell
   - Bicep
-  - Microsoft Azure
+  - Azure
+  - React Native
+  - Next.js
   - KQL
 ---
 
-Hello! I'm a software engineer specializing in platform infrastructure, service reliability, and developer tooling. My work focuses on building scalable systems, improving operational readiness, and enabling teams to ship with confidence.
+Hello! I'm a software engineer specializing in infrastructure as code, distributed systems, reliability, and secure identity. My work spans large-scale platform engineering at Microsoft and founding-CTO roles building products from the ground up.
 
-Currently, I'm a Software Engineer II at [Microsoft](https://www.microsoft.com/en-us/), where I work on Microsoft Graph platform services including Graph Bicep, Graph Logs, and ARM integration infrastructure.
+Currently, I'm a Software Engineer II at [Microsoft](https://www.microsoft.com/en-us/), where I'm the lead engineer for Microsoft Graph Bicep — taking it to public preview, tripling supported resource types, and growing usage 40%. I also drive identity and security work across MSAL, Azure Identity, Entra, and M365. Outside Microsoft, I'm founding CTO of [Open Health Initiative](https://ohealth-ng.com/) and co-founder/CTO of [Mingla](https://usemingla.com/).
 
 I hold graduate degrees in Advanced Computing and Electrical & Computer Engineering from Morgan State University.
 

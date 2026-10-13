@@ -1,9 +1,9 @@
 export const site = {
   title: 'Taofeek F. Obafemi-Babatunde | Software Engineer',
   description:
-    'Taofeek F. Obafemi-Babatunde is a software engineer with 6+ years of experience building large-scale platform infrastructure at Microsoft, specializing in CI/CD automation, service reliability, and Microsoft Graph platform engineering.',
+    'Taofeek F. Obafemi-Babatunde is a software engineer with 6+ years building infrastructure, 5+ at Microsoft across the Microsoft Graph ecosystem, and founding-CTO experience at Open Health Initiative and Mingla.',
   keywords:
-    'Taofeek Obafemi-Babatunde, Fehintola, Fehintola Obafemi-Babatunde, fehintola obafemi, FehintolaObafemi, software engineer, platform engineer, Microsoft Graph, CI/CD, DevOps, cloud infrastructure, Bicep, PowerShell, TypeScript, C#, Microsoft Azure, Morgan State University',
+    'Taofeek Obafemi-Babatunde, Fehintola, Fehintola Obafemi-Babatunde, fehintola obafemi, FehintolaObafemi, software engineer, Microsoft Graph, Graph Bicep, MSAL, Entra, CI/CD, DevOps, cloud infrastructure, Bicep, PowerShell, TypeScript, C#, Microsoft Azure, Open Health Initiative, Mingla, Morgan State University',
   url: 'https://fehintolaobafemi.com',
   language: 'en_US',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',

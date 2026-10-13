@@ -10,7 +10,8 @@ tech:
   - Expo
   - Next.js
   - Supabase
+  - Stripe Connect
 featured: true
 ---
 
-Mingla is an experience platform that connects people to real-world venues, events, and plans, and gives businesses the tools to be found, booked, and paid. I contribute to the production TypeScript stack spanning consumer and business apps (iOS and Android), an admin dashboard, and the public marketing site.
+Mingla is a two-sided experience marketplace — consumer and Host apps live on the App Store and Google Play since spring 2026, with users in Nigeria, Europe, and the US. As co-founder and CTO, I lead all engineering across a monorepo of two React Native (Expo) apps, a React admin dashboard, a Next.js marketing site, and a Supabase backend, including Stripe Connect commerce, growth attribution, and AI-assisted engineering governance.
