@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Taofeek F. Obafemi-Babatunde'
-subtitle: 'I build platform infrastructure, automate CI/CD, and ship reliable services at scale.'
+subtitle: 'Software engineer — Microsoft Graph infrastructure, and founding CTO at two startups.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer with 6+ years of experience building and owning large-scale platform infrastructure at Microsoft. I lead service migrations, design CI/CD automation, and drive cross-team modernization initiatives that improve reliability, developer productivity, and operational readiness.
+I'm a software engineer with 6+ years building infrastructure, including 5+ at Microsoft across the Microsoft Graph ecosystem. I lead Microsoft Graph Bicep, drive cross-team identity security work spanning MSAL, Azure Identity, Entra, and M365, and serve as founding CTO of Open Health Initiative and co-founder/CTO of Mingla.

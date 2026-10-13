@@ -5,12 +5,12 @@ cover: './cover.png'
 github: ''
 external: 'https://ohealth-ng.com/'
 tech:
-  - React
   - TypeScript
-  - Go
-  - Vite
+  - React
+  - FHIR/HL7
+  - Payments
   - PostgreSQL
 featured: true
 ---
 
-Open Health Initiative (OHI) is a healthcare price-transparency platform for discovering facilities, services, and true costs in Nigeria. The product covers facility and service search, booking flows, and a verified network of medications and hospital services — built as a React web app with a Go API.
+Open Health Initiative (OHI) is healthcare payments and data infrastructure for Nigerian hospitals, HMOs, and government agencies. As founding CTO, I own architecture, engineering, security, and compliance — including a unified payments model (card, bank transfer, WhatsApp, POS, installment, HMO) with a single audit trail, FHIR/HL7 interoperability, and a platform live at 6 public facilities with 33 signed and an HMO partnership.
